@@ -191,6 +191,7 @@ Links
 - https://stackoverflow.com/questions/32451966/generate-typescript-interfaces-from-java-interfaces
 - https://bitbucket.org/amdatulabs/amdatu-typescript-generator/src/8e8c3cb34374db40579e793c985bbca92f84fe92?at=master
 - https://www.rainerhahnekamp.com/en/typesafe-endpoints-with-typescript-and-java/
+- https://www.npmjs.com/package/ts-java
 
 
 Contributing
